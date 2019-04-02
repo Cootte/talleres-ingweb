@@ -40,7 +40,7 @@ Link:https://developer.mozilla.org/es/docs/Web/HTTP/Methods
 
 *hearder*: los encabezados son los que transfieren informacion entre el navegador y el servidor
 
-Link:
+Link:https://developer.mozilla.org/es/docs/Web/HTTP/Headers
 
 *Accept, Accept-Charset, Accept-Encoding*: se trata de la negociacion de contendio que se tiene, puede ser de lenguaje, datos , entre otros
 
@@ -84,4 +84,4 @@ Link:https://developer.mozilla.org/es/docs/Web/HTTP/Headers
 
 *Upgrade*:
 
-Link:
+Link:https://developer.mozilla.org/es/docs/Web/HTTP/Headers
