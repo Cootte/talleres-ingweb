@@ -1,0 +1,28 @@
+
+p {
+    color: green;
+    width: 500px;
+    
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    background-color: lightblue
+  }
+  p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  table {
+    width: 90%;
+ }
+ thead{
+     color: green;
+     background-color: lightblue
+ }
+
+ th, td {
+    text-align: center;
+ }
